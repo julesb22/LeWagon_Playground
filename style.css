@@ -4,3 +4,16 @@
 	text-align: center;
 	padding-top: 200px;	
 }
+
+#titre_bouton {
+
+	text-align: center;
+	padding-top: 50px;	
+	font-family: Montserrat;
+}
+
+.btn {
+font-family: Montserrat;
+margin-left: 500px;
+background-color: red;
+}
